@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Book1",
-    "image": "Book07.png"
+    "name": "Atomic Habits",
+    "image": "Atomic Habits.png"
   },
   {
     "id": 2,
-    "name": "Book2",
-    "image": "Book07.png"
+    "name": "Deep Work",
+    "image": "Deep Work.png"
   },
   {
     "id": 3,
-    "name": "Book3",
-    "image": "Book07.png"
+    "name": "Idea_power",
+    "image": "Idea_power.png"
   },
   {
     "id": 4,
-    "name": "Book4",
-    "image": "Book07.png"
+    "name": "The Alchemist",
+    "image": "The Alchemist.png"
   },
   {
     "id": 5,
-    "name": "Book5",
-    "image": "Book07.png"
+    "name": "The Lean Stattup",
+    "image": "The Lean Stattup.png"
   },
   {
     "id": 6,
-    "name": "Book6",
-    "image": "Book07.png"
+    "name": "Zero to One",
+    "image": "Zero to One.png"
   }
 ]
