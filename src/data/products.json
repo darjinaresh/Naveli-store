@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "image": "Book.png"
+    "name": "Book1",
+    "image": "Book07.png"
   },
   {
     "id": 2,
-    "name": "Book1",
-    "image": "Book.png"
+    "name": "Book2",
+    "image": "Book07.png"
   },
   {
     "id": 3,
-    "name": "Book2",
-    "image": "Book.png"
+    "name": "Book3",
+    "image": "Book07.png"
   },
   {
     "id": 4,
-    "name": "Book3",
-    "image": "Book.png"
+    "name": "Book4",
+    "image": "Book07.png"
   },
   {
     "id": 5,
-    "name": "Book4",
-    "image": "Book.png"
+    "name": "Book5",
+    "image": "Book07.png"
   },
   {
     "id": 6,
-    "name": "Book5",
-    "image": "Book.png"
+    "name": "Book6",
+    "image": "Book07.png"
   }
 ]
