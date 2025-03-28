@@ -1,32 +1,32 @@
 [
-    {
-      "id": 1,
-      "name": "Blue T-Shirt",
-      "image": "blue_tshirt.png"
-    },
-    {
-      "id": 2,
-      "name": "Black Trousers",
-      "image": "black_trouser.png"
-    },
-    {
-      "id": 3,
-      "name": "Red Hoodie",
-      "image": "red_hoodie.png"
-    },
-    {
-      "id": 4,
-      "name": "Green Dress",
-      "image": "green_dress.png"
-    },
-    {
-      "id": 5,
-      "name": "Yellow Summer Top",
-      "image": "yellow_top.png"
-    },
-    {
-      "id": 6,
-      "name": "Running Shoes",
-      "image": "black_shoes.png"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Book",
+    "image": "Book.png"
+  },
+  {
+    "id": 2,
+    "name": "Book1",
+    "image": "Book.png"
+  },
+  {
+    "id": 3,
+    "name": "Book2",
+    "image": "Book.png"
+  },
+  {
+    "id": 4,
+    "name": "Book3",
+    "image": "Book.png"
+  },
+  {
+    "id": 5,
+    "name": "Book4",
+    "image": "Book.png"
+  },
+  {
+    "id": 6,
+    "name": "Book5",
+    "image": "Book.png"
+  }
+]
