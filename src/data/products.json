@@ -1,32 +1,32 @@
 [
-    {
-      "id": 1,
-      "name": "Blue T-Shirt",
-      "image": "blue_tshirt.png"
-    },
-    {
-      "id": 2,
-      "name": "Black Trousers",
-      "image": "black_trouser.png"
-    },
-    {
-      "id": 3,
-      "name": "Red Hoodie",
-      "image": "red_hoodie.png"
-    },
-    {
-      "id": 4,
-      "name": "Green Dress",
-      "image": "green_dress.png"
-    },
-    {
-      "id": 5,
-      "name": "Yellow Summer Top",
-      "image": "yellow_top.png"
-    },
-    {
-      "id": 6,
-      "name": "Running Shoes",
-      "image": "black_shoes.png"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Atomic Habits",
+    "image": "Atomic Habits.png"
+  },
+  {
+    "id": 2,
+    "name": "Deep Work",
+    "image": "Deep Work.png"
+  },
+  {
+    "id": 3,
+    "name": "Idea_power",
+    "image": "Idea_power.png"
+  },
+  {
+    "id": 4,
+    "name": "The Alchemist",
+    "image": "The Alchemist.png"
+  },
+  {
+    "id": 5,
+    "name": "The Lean Stattup",
+    "image": "The Lean Stattup.png"
+  },
+  {
+    "id": 6,
+    "name": "Zero to One",
+    "image": "Zero to One.png"
+  }
+]
