@@ -17,19 +17,16 @@
   {
     "id": 4,
     "name": "Green Dress",
-    "image": "green_dress.png",
-    "button": "Add to Cart"
+    "image": "green_dress.png"
   },
   {
     "id": 5,
     "name": "Yellow Summer Top",
-    "image": "yellow_top.png",
-    "button": "Add to Cart"
+    "image": "yellow_top.png"
   },
   {
     "id": 6,
     "name": "Running Shoes",
-    "image": "black_shoes.png",
-    "button": "Add to Cart"
+    "image": "black_shoes.png"
   }
 ]
