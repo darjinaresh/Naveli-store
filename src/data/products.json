@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": "Atomic Habits",
-    "image": "Atomic Habits.png"
+    "image": "Atomic_Habits.png"
   },
   {
     "id": 2,
     "name": "Deep Work",
-    "image": "Deep Work.png"
+    "image": "Deep_Work.png"
   },
   {
     "id": 3,
@@ -17,16 +17,16 @@
   {
     "id": 4,
     "name": "The Alchemist",
-    "image": "The Alchemist.png"
+    "image": "The_Alchemist.png"
   },
   {
     "id": 5,
     "name": "The Lean Stattup",
-    "image": "The Lean Stattup.png"
+    "image": "TheLean_Stattup.png"
   },
   {
     "id": 6,
     "name": "Zero to One",
-    "image": "Zero to One.png"
+    "image": "Zeroto_One.png"
   }
 ]
