@@ -86,7 +86,7 @@ const AppContextProvider = ({ children }) => {
 
   const sendAddProduct = async (product) => {
     const response = await fetch(
-      "https://my-shop-0808-default-rtdb.firebaseio.com/products.json",
+      "https://bookwala-8f60d-default-rtdb.firebaseio.com/products.json",
       {
         method: "POST",
         headers: {
@@ -119,7 +119,7 @@ const AppContextProvider = ({ children }) => {
     setIsloading(true);
     try {
       const response = await fetch(
-        "https://my-shop-0808-default-rtdb.firebaseio.com/products.json",
+        "https://bookwala-8f60d-default-rtdb.firebaseio.com/products.json",
         {
           method: "GET",
         }
