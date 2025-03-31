@@ -7,7 +7,7 @@ function Header() {
 
   return (
     <div className="header">
-      <h1>BookNest</h1>
+      <h1>Naveli-Store</h1>
       <div>
         <button
           className="yellow-button"

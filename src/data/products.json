@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Atomic_Habits",
-    "image": "Atomic_Habits.png"
+    "name": "Blue T-Shirt",
+    "image": "blue_tshirt.png"
   },
   {
     "id": 2,
-    "name": "Deep_Work",
-    "image": "Deep_Work.png"
+    "name": "Black Trousers",
+    "image": "black_trouser.png"
   },
   {
     "id": 3,
-    "name": "Idea_power",
-    "image": "Idea_power.png"
+    "name": "Red Hoodie",
+    "image": "red_hoodie.png"
   },
   {
     "id": 4,
-    "name": "The_Alchemist",
-    "image": "The_Alchemist.png"
+    "name": "Green Dress",
+    "image": "green_dress.png"
   },
   {
     "id": 5,
-    "name": "TheLean_Stattup",
-    "image": "TheLean_Stattup.png"
+    "name": "Yellow Summer Top",
+    "image": "yellow_top.png"
   },
   {
     "id": 6,
-    "name": "Zeroto_One",
-    "image": "Zeroto_One.png"
+    "name": "Running Shoes",
+    "image": "black_shoes.png"
   }
 ]
