@@ -126,6 +126,7 @@ const AppContextProvider = ({ children }) => {
       );
 
       const data = await response.json();
+      console.log(data);
       setProducts(data);
       setIsloading(false);
     } catch (err) {
